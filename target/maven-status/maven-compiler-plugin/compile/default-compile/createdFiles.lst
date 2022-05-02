@@ -1,0 +1,10 @@
+com\spark\Commands\VendingMachineCommands.class
+com\spark\Products\SparkPasta.class
+com\spark\VendingMachineApplication.class
+com\spark\Person\Employee.class
+com\spark\Products\Products.class
+com\spark\Person\Person.class
+Controller\VendingMachineController.class
+com\spark\Products\SparklingWater.class
+com\spark\inventory\Inventory.class
+com\spark\Products\Sparksoda.class
